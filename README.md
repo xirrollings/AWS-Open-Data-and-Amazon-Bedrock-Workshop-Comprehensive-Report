@@ -1,0 +1,1 @@
+# AWS-Open-Data-and-Amazon-Bedrock-Workshop-Comprehensive-Report
